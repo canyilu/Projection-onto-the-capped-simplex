@@ -1,4 +1,4 @@
-# Projection-onto-the-capped-simplex
+# Projection onto the capped simplex
 
 Matlab and C++ implementation of an efficient solver for the following problem written by <a href="http://ttic.uchicago.edu/~wwang5/">Weiran Wang</a>
 
